@@ -1,0 +1,235 @@
+{
+    "carouselOne": [
+      {
+        "src": "oct2.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "oct4.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "oct3.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "oct1.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "oct5.jpg",
+        "alt": "Image 5 for Carousel 1"
+      },
+      {
+        "src": "oct6.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "oct7.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "oct8.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "oct9.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "oct10.jpg",
+        "alt": "Image 5 for Carousel 1"
+      },
+      {
+        "src": "oct11.jpg",
+        "alt": "Image 5 for Carousel 1"
+      }
+  
+    ],
+    "carouselTwo": [
+      {
+        "src": "octt1.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "octt2.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "octt3.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "octt4.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "octt5.jpg",
+        "alt": "Image 5 for Carousel 1"
+      },
+      {
+        "src": "octt6.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "octt7.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "octt8.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "octt9.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "octt10.jpg",
+        "alt": "Image 5 for Carousel 1"
+      },
+      {
+        "src": "octt11.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "octt12.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "octt13.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "octt14.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "octt15.jpg",
+        "alt": "Image 5 for Carousel 1"
+      },
+      {
+        "src": "octt16.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "octt17.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "octt18.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "octt19.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "octt20.jpg",
+        "alt": "Image 5 for Carousel 1"
+      },
+      {
+        "src": "octt20.jpg",
+        "alt": "Image 5 for Carousel 1"
+      }
+    ],
+    "carouselThree": [
+      {
+        "src": "kar1.jpg",
+        "alt": "Image 1 for Carousel 1"
+      }
+    ],
+    "carouselFo": [
+      {
+        "src": "fo1.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "fo2.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "fo3.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "fo4.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "fo5.jpg",
+        "alt": "Image 5 for Carousel 1"
+      },
+      {
+        "src": "fo6.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "fo7.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "fo8.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "fo9.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "fo10.jpg",
+        "alt": "Image 5 for Carousel 1"
+      },
+      {
+        "src": "fo11.jpg",
+        "alt": "Image 1 for Carousel 1"
+      }
+    ],
+      "carouselFi": [
+      {
+        "src": "fi1.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "fi2.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "fi3.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "fi4.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "fi5.jpg",
+        "alt": "Image 5 for Carousel 1"
+      },
+      {
+        "src": "fi6.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "fi7.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "fi8.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "fi9.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "fi10.jpg",
+        "alt": "Image 5 for Carousel 1"
+      },
+      {
+        "src": "fi11.jpg",
+        "alt": "Image 1 for Carousel 1"
+      }
+    ]
+  }
+
+  

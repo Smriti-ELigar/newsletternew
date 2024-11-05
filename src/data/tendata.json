@@ -1,0 +1,27 @@
+{
+    "carousel": [
+      {
+        "src": "ten11.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "ten2.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "ten3.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "ten4.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "ten12.jpg",
+        "alt": "Image 5 for Carousel 1"
+      }
+  
+    ]
+  }
+
+  

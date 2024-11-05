@@ -1,0 +1,23 @@
+{
+    "carousel": [
+      {
+        "src": "gan1.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "gan2.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "gan3.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "gan4.jpg",
+        "alt": "Image 4 for Carousel 1"
+      }
+  
+    ]
+  }
+
+  

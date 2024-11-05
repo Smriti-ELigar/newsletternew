@@ -1,0 +1,39 @@
+{
+    "carousel": [
+      {
+        "src": "ent1.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "ent2.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "ent3.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "ent4.jpg",
+        "alt": "Image 4 for Carousel 1"
+      },
+      {
+        "src": "ent5.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "ent6.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "ent7.jpg",
+        "alt": "Image 3 for Carousel 1"
+      },
+      {
+        "src": "ent8.jpg",
+        "alt": "Image 3 for Carousel 1"
+      }
+  
+    ]
+  }
+
+  

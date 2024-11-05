@@ -1,0 +1,41 @@
+/* MC.css */
+.mc-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .mc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .mc-table th,
+  .mc-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .mc-table th {
+    background-color: #f4f4f4;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .mc-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .mc-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* Only stack the Description content below label on smaller screens */
+  @media (max-width: 768px) {
+    .mc-table td[data-label="Description"] {
+      display: block;
+    }
+  }
+  

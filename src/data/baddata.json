@@ -1,0 +1,64 @@
+{
+    "carouselOne": [
+      {
+        "src": "bad1.jpg",
+        "alt": "Image 1 for Carousel 1"
+      },
+      {
+        "src": "bad2.jpg",
+        "alt": "Image 2 for Carousel 1"
+      },
+      {
+        "src": "bad3.jpg",
+        "alt": "Image 3 for Carousel 1",
+        "label": "Runners above 30"
+      },
+      {
+        "src": "bad4.jpg",
+        "alt": "Image 4 for Carousel 1",
+        "label": "Winners above 30"
+
+      },
+      {
+        "src": "bad5.jpg",
+        "alt": "Image 5 for Carousel 1",
+        "label": "Runners below 30"
+
+      },
+      {
+        "src": "bad6.jpg",
+        "alt": "Image 4 for Carousel 1",
+        "label": "Winners under 30"
+
+      },
+      {
+        "src": "bad7.jpg",
+        "alt": "Image 5 for Carousel 1",
+        "label": "Organisers"
+
+      },{
+        "src": "bad8.jpg",
+        "alt": "Image 4 for Carousel 1",
+        "label": "Winners and Runners with refrees"
+
+      },
+      {
+        "src": "bad9.jpg",
+        "alt": "Image 5 for Carousel 1",
+        "label": "Chief Guest,Organisers,Support Squad and Refrees"
+
+      }
+    ],
+    "carouselTwo": [
+    {
+      "src": "badaw1.jpg",
+      "alt": "Image 1 for Carousel 2"
+    },
+    {
+      "src": "badaw2.jpg",
+      "alt": "Image 2 for Carousel 2"
+    }
+]
+  }
+
+  
