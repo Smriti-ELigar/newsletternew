@@ -9,7 +9,7 @@ const Editor = () => {
       <div className="aboutBottom">
       <div className="col-8 textContent">
          <p>
-          <b>Madhu Shukla</b>, a  resident of MS is <br/>
+          <b>Madhu Shukla</b>, a  resident of MS is 
 an experienced fitness trainer with more than six yeras of experience specializing in women’s fitness.<br/>
 She has been providing fitness training for women in a supportive, women-only environment that fosters comfort and focus. <br/>
 So here are a few tips from her to keep ourselves fit during the festive period inspite of all the temptations 😋.<br/><br/>

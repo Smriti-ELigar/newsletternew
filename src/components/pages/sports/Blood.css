@@ -8,7 +8,7 @@
   .aboutTop-blood {
     width: 100%;
     height: 300px; /* Fixed height for header background */
-    background-image: url('bloodtop.jpg');
+    background-image: url('/bloodtop.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

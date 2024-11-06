@@ -10,7 +10,7 @@
   .containerTop-oct {
     width: 100%;
     height: 300px;
-    background-image: url('octtop.webp');
+    background-image: url('/octtop.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -136,7 +136,7 @@
   /* Responsive styling */
   @media (max-width: 768px) {
     .carousel-oct {
-      height: 300px; /* Adjusted height for medium screens */
+      height: 500px; /* Adjusted height for medium screens */
       width: 320px
     }
   
@@ -147,7 +147,7 @@
   
   @media (max-width: 480px) {
     .carousel-oct {
-      height: 200px; /* Adjusted height for small screens */
+      height: 380px; /* Adjusted height for small screens */
     }
   
     .paragraph-oct{

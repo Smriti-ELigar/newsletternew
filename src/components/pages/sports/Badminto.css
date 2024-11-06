@@ -11,7 +11,7 @@ h1{
 .containerTop1 {
     width: 100%;
     height: 45%;
-    background-image: url('badtop2.jpg'); 
+    background-image: url('/badtop2.jpg'); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

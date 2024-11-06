@@ -104,7 +104,7 @@ export const Oct = () => {
           <div className="content-oct">
             <h1>Navratri celebrations in MS</h1>
             <p className="paragraph-oct">
-              Two of our residents have described the Navratri celebrations in MS:
+            Residents overview of Navratri celebrations in MS:
 
               Ankurarpane, the ritual of sprouting seeds is a symbolic representation of new beginnings, growth, and celebration of life. This was celebrated on first day of Navaratri, marking the onset of the nine-day festival.Ladies decked in green sarees got together for the ritual which involved putting nine types of grains or seeds in small pots. These seeds sprouted well through the festival.The act of nurturing these sprouts mirrors the nurturing of life and positive outcomes.<br />
 

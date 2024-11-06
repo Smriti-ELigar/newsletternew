@@ -60,7 +60,7 @@ export const Magical = () => {
           <div className="content">
             <p className="paragraph">
               Some people truly have magical fingers, able to spin, weave, and create incredible things.
-              Anjani Sridharkatti from X802 was introduced to crochet in school but rekindled her interest
+              <b>Anjani Sridharkatti</b> from X802 was introduced to crochet in school but rekindled her interest
               during the pandemic. She has now mastered her skills and takes orders for her amazing crochet creations. Anjani is also very fond of photography. Some of you must have seen the wonderful scenic pictures posted in the Whatsapp groups.             
               </p>
           </div>
@@ -93,8 +93,7 @@ export const Magical = () => {
           </div>
           <div className="content">
             <p className="paragraph">
-              Ms. Uma Sarvesh of R1003 creates intricate designs on plates sprinkled with kumkum using only a matchstick.
-              Her creativity and skill highlight her dedication and passion for her craft.
+              <b>Ms. Uma Sarvesh </b>of R1003 is a true testament to creativity and passion. Her diverse skills, from hairstyling to crafting flowers from waste materials ,highlight her restless spirit. However, her most enchanting work is etching intricate designs on plates sprinkled with kumkum. With only a matchstick and the name of the Divine, she brings to life beautiful figures of gods and goddesses.
               <br />Both Anjani and Uma  are self-taught, driven by a profound inner energy that fuels their artistic endeavors. Their dedication to their crafts is truly inspiring.
 
             </p>

@@ -8,7 +8,7 @@
 .aboutTop-ref {
   width: 100%;
   height: 300px; /* Fixed height for header background */
-  background-image: url('reftop2.jpg');
+  background-image: url('/reftop2.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

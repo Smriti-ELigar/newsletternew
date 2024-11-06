@@ -1,7 +1,9 @@
 import React, { useState } from "react";
 import { BsArrowLeftCircleFill, BsArrowRightCircleFill } from "react-icons/bs";
 import "./lits.css";
-import { Button } from '../Button';
+// import { Button } from '../Button';
+import { Link } from 'react-router-dom';
+
 import litsdata from "../../data/litsdata.json";
 export const Lits = () => {
   // State for the first carousel
@@ -86,14 +88,17 @@ export const Lits = () => {
           However, Evelyn simply followed as her smile vanished completely, when she realised the seriousness of the situation, she was still not completely aware of.<br />
           She followed her brother into the inner chambers of her sister, Her Majesty Elena, who was to be crowned queen as per her mother’s wish. With every moment her heart beat faster as she noticed the heads of the maid servants hung down, not one daring to look up.<br />
           Entering her Elena’s room she took in the environment, light beige walls decked with paintings of the members of her family, Large white wardrobes, light reflecting from the huge semicircle mirror of the dressing table and---- <br /><br />
-          <a
-          href='/evelyn'
-          style={{ color: 'blue', textDecoration: 'none', fontSize: 'large' }}
-          onClick={() => console.log('hey')}
+         
+          <Link
+  to="/evelyn"
+  style={{ color: 'blue', textDecoration: 'none', fontSize: 'large' }}
+  onClick={() => console.log('hey')}
+>
+To know what Evelyn found out please click here!
+</Link>
+
           
-        >
-          To know what Evelyn found out please click here!
-        </a>
+        
         </p>
         
         {/* <Button

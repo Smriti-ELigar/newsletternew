@@ -19,8 +19,7 @@ import magicaldata from "./data/magicaldata.json"; // Import the JSON data
 import Tenni from './components/pages/sports/Tenni';
 import tendata from "./data/tendata.json"; // Import the JSON data
 import Entre from './components/pages/creativity/Entre';
-import Diwali from './components/pages/culture/Diwali';
-import Dussehra from './components/pages/culture/Dussehra';
+
 import Ganesha from './components/pages/culture/Ganesha';
 import Oct from './components/pages/culture/Oct';
 import octdata from "./data/octdata.json"; // Import the JSON data
@@ -59,8 +58,7 @@ function App() {
         <Route path='/magical' element={<Magical data={magicaldata.slides} />} />
         <Route path='/tenni' element={<Tenni data={tendata.slides} />} />
         <Route path='/entre' element={<Entre data={entdata.slides}/>} />
-        <Route path='/diwali' element={<Diwali />} />
-        <Route path='/dussehra' element={<Dussehra />} />
+        
         <Route path='/ganesha' element={<Ganesha data={gandata.slides}/>} />
         <Route path='/oct' element={<Oct data={octdata.slides} />} />
         <Route path='/editor' element={<Editor />} />
