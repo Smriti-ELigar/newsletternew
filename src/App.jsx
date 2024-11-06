@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap first
+import './index.css';
 import './App.css'; // Import your custom CSS last
 import React from 'react';
 import Navbar from './components/Navbar';
