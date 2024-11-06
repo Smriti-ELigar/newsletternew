@@ -39,7 +39,7 @@ function Cards() {
             />
             <CardItem
               src='./lit.jpeg'
-              text='Literature & Learning'
+              text='Lit & Learning'
               label=''
               path='/lits'
             />
