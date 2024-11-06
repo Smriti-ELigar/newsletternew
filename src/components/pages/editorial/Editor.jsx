@@ -21,6 +21,8 @@ const Editor = () => {
         </div>
         <div className="col-4">
           <img src="smriti.jpg" alt="Smriti" className="profileImage" />
+          <h2>Smriti Eligar</h2>
+          
         </div>
 
       </div>

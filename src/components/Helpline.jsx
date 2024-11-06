@@ -17,7 +17,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const Helpline = () => {
   return (
     <div className="about">
-      <h1>Get in Touch for Immediate Assistance</h1>
+      <h1>
+      For emergency blood requirement</h1>
       <div className="aboutBottom-b">
       <div className="textContent-b">
       <h3>Our dedicated team is ready to help </h3>
