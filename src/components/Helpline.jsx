@@ -18,7 +18,7 @@ const Helpline = () => {
   return (
     <div className="about">
       <h1>
-      For emergency blood requirement</h1>
+      For Emergency Blood Requirement</h1>
       <div className="aboutBottom-b">
       <div className="textContent-b">
       <h3>Our dedicated team is ready to help </h3>
