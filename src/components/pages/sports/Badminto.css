@@ -77,6 +77,7 @@ h1{
     max-width: 90%;
     text-align: center;
 }
+
   
 .slide-hidden {
     display: none;
@@ -177,6 +178,9 @@ h1{
         width: 100%;
         font-size: 14px;
     }
+    .slide-label {
+        font-size: 0.8rem; /* Slightly smaller for medium screens */
+    }
 }
 
 @media (max-width: 480px) {
@@ -186,5 +190,8 @@ h1{
 
     .paragraph2{
         font-size: 12px;
+    }
+    .slide-label {
+        font-size: 0.7rem; /* Even smaller for small screens */
     }
 }
