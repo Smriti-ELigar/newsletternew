@@ -28,7 +28,7 @@ function Footer() {
             <p onClick={() => copyToClipboard('9845999530')}>Mrs. Anuradha Peri: 9845999530</p>
             <p onClick={() => copyToClipboard('9980129169')}>Mrs. Kavitha Shivram: 9980129169</p>
             <p onClick={() => copyToClipboard('9845303574')}>Mr. Sreenivas: 9845303574</p>
-            <p onClick={() => window.location.href = 'mailto:smritieligar1005@gmail.com'}>Ms. Smriti Eligar : smritieligar2004@gmail.com</p>
+            <p onClick={() => window.location.href = 'mailto:smritieligar2004@gmail.com'}>Ms. Smriti Eligar : smritieligar2004@gmail.com</p>
 
           </div>
         </div>
