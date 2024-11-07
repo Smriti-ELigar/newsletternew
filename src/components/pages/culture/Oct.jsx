@@ -156,7 +156,7 @@ The cultural program that followed showcased the incredible talent within our co
 As dusk fell, the age-old tradition of Ravan Dahan symbolized the victory of good over evil, accompanied by a spectacular fireworks display. The evening culminated in a high-energy dandiya night, where residents danced to contemporary beats, bringing a perfect blend of tradition and modernity to our celebration.
 <br/><br/>
 By<br/>
-Manisha Pareekh
+Manisha Pareek
 
             </p>
           </div>
@@ -185,7 +185,7 @@ Manisha Pareekh
           </div>
           
           <div className="content-oct">
-            <h1>Karva Chauth celebrations </h1>
+            <h1>Karva Chauth Celebrations </h1>
             <p className="paragraph-oct">
             Karva Chauth celebrations at Mantri Serenity were a vibrant showcase of tradition and community spirit.
 

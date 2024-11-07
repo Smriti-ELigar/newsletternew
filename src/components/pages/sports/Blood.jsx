@@ -17,7 +17,7 @@ This is an initiative of MS Vibes and the MC to create a register of live blood 
 PLEASE JOIN IN THIS NOBLE CAUSE AND SAVE LIVES.<br /><br />
 Coordinators Contact details:<br />
 a) Anuradha Peri - 9845999530<br />
-b) Kavitha Sivaram - 9980129169<br />
+b) Kavitha Shivram - 9980129169<br />
 c) Sreenivas - 9845303574
 
           </p>
